@@ -1,4 +1,4 @@
-# Role Playing Game
+# Role Playing Game - Dragon Repeller
 <p>Heys Guys I have created a role playing game solely based on HTML,CSS and Javascript</p>
 
 # How to Play
